@@ -350,7 +350,10 @@ form .btn2 {
 .copyright i {
   color: #de102d;
 }
-
+.email,.phone{
+  color: #fff;
+  text-decoration: none;
+}
 /*---------------- End Contact section -------------*/
 
 nav .fa-solid {
